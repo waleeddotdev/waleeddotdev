@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **ReactJS, NextJS, JavaScript**
 
+- 📲 Working on my Personal Brand on Instagram & Linkedin
+
 - 📫 How to reach me **waleeddotdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
