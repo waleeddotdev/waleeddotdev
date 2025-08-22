@@ -68,7 +68,9 @@ I'm a 20-year-old full-stack developer and freelancer based in Pakistan. With ov
 </p>
 
 ---
+
 <br />
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=waleeddotdev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Waleed's GitHub stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleeddotdev&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
