@@ -4,7 +4,7 @@
 **`Digital Craftsman (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
-I'm a 20-year-old full-stack developer and freelancer based in Pakistan. With over 3 years of experience in web development, I specialize in creating interactive UI/UX, front-end animations, and backend solutions using databases like Firebase, Supabase, and MongoDB. I share tech tips, programming tricks, and industry news on platforms like <a href="https://www.instagram.com/waleeddotdev/" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/waleeddotdev/" target="_blank">LinkedIn</a>. Passionate about coding and building things, I thrive on challenges and constantly push the boundaries of innovation in tech.
+I'm a 21-year-old full-stack developer and freelancer based in Pakistan. With over 3 years of experience in web development, I specialize in creating interactive UI/UX, front-end animations, and backend solutions using databases like Firebase, Supabase, and MongoDB. I share tech tips, programming tricks, and industry news on platforms like <a href="https://www.instagram.com/waleeddotdev/" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/waleeddotdev/" target="_blank">LinkedIn</a>. Passionate about coding and building things, I thrive on challenges and constantly push the boundaries of innovation in tech.
 </p>
 
 
